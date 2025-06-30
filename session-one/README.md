@@ -7,9 +7,19 @@ banner="https://upload.wikimedia.org/wikipedia/commons/0/07/SherardiaArv3.jpg"
 height=100
 author="Emily Hughes, Moira Newman, Lois Nguyen"
 layout="vertical">
-### Heading 
+ 
 
-#### History of madder
+### History of madder
+#### Introduction
+
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+<param ve-image
+	   src="wc:Field_madder_(sherardia_arvensis)_-_William_Catto_-_ABDAG016327.jpg"
+	   caption="this is an image of an herbarium record of madder.">
+<param ve-image
+	   src="wc:Field_madder_(sherardia_arvensis)_-_William_Catto_-_ABDAG016326.jpg"
+	   caption="this is another image of an herbarium record of madder">
+ 
  
  _i want to italicize this word_
  
