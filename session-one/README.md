@@ -1,3 +1,12 @@
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+
+<param ve-config 
+title="Madder"    
+source-image="https://upload.wikimedia.org/wikipedia/commons/0/07/SherardiaArv3.jpg"   
+banner="https://upload.wikimedia.org/wikipedia/commons/0/07/SherardiaArv3.jpg" 
+height=100
+author="Emily Hughes, Moira Newman, Lois Nguyen"
+layout="vertical">
 ### Heading 
 
 #### History of madder
