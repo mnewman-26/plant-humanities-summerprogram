@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-title="What' the Madder? You're all red!"    
+title="What's the Madder? You're all red!"    
 source-image="https://upload.wikimedia.org/wikipedia/commons/0/07/SherardiaArv3.jpg"   
 banner="https://upload.wikimedia.org/wikipedia/commons/0/07/SherardiaArv3.jpg" 
 height=100
@@ -30,7 +30,17 @@ This is a filler paragraph. ***This is a filler paragraph.***  This ****is**** a
 <param ve-video
                src="ESsnU-ECYnw"
                start="289"
-               end="303">
+               end="303"
+			  caption="side byside of wild and commerical madder root"> 
+			  
+####primary source 
+
+This is a filler paragraph. ***This is a filler paragraph.***  This ****is**** a filler paragraph. *This* is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+<param ve-iframe
+               src="https://archive.org/details/Rubia-tinctorum-PHAIDRA_o_268662">
+			   
+
+			   
 
 
 [^1]: this is the first footnote for this document. 
